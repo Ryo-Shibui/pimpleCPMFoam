@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pimpleFoam.C": "cpp",
+        "pimpleCPMFoam.C": "cpp",
+        "CPMVoltage.C": "cpp"
+    }
+}

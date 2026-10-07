@@ -103,3 +103,4 @@ Use `ionBased` when the drift velocity from the electric field is the restrictiv
 - The electric body force enters the momentum equation as `-e*(nP-nN)*E/rho0`.
 - Ion densities are clipped to non-negative values after transport solves.
 - The deposition model subtracts only outward positive deposited amounts from adjacent cells, which helps avoid negative ion number densities near absorbing patches.
+

@@ -1,0 +1,13 @@
+Make/*/
+**/Make/*/
+!**/Make/files
+!**/Make/options
+lnInclude/
+**/lnInclude/
+*.o
+*.dep
+*.so
+*.dylib
+*.dll
+*.exe
+
